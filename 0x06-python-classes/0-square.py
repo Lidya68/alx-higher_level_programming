@@ -1,11 +1,9 @@
 #!/usr/bin/python3
-"""
-Square class definition
-"""
+# 0-square.py
+# Brennan D Baraban <375@holbertonschool.com>
+"""Define a class Square."""
 
 
 class Square:
-    """
-    Empty square class
-    """
+    """Represent a square."""
     pass
