@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-# 0-square.py
-# Lidya Wondwossen <ALX>
-"""Define a class Square."""
+"""
+This is the "Square"  module.
+
+This module provides a simple Square class.
+"""
 
 
 class Square:
-    """Represent a square."""
+    """A simple Square class"""
     pass
